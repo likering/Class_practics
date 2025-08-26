@@ -1,0 +1,14 @@
+C:\Users\liker\source\repos\Class_practice\Class_practice\bin\Debug\net8.0\Class_practice.exe
+C:\Users\liker\source\repos\Class_practice\Class_practice\bin\Debug\net8.0\Class_practice.deps.json
+C:\Users\liker\source\repos\Class_practice\Class_practice\bin\Debug\net8.0\Class_practice.runtimeconfig.json
+C:\Users\liker\source\repos\Class_practice\Class_practice\bin\Debug\net8.0\Class_practice.dll
+C:\Users\liker\source\repos\Class_practice\Class_practice\bin\Debug\net8.0\Class_practice.pdb
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.AssemblyInfoInputs.cache
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.AssemblyInfo.cs
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.csproj.CoreCompileInputs.cache
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.dll
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\refint\Class_practice.dll
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.pdb
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\Class_practice.genruntimeconfig.cache
+C:\Users\liker\source\repos\Class_practice\Class_practice\obj\Debug\net8.0\ref\Class_practice.dll
